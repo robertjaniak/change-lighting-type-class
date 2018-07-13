@@ -1,14 +1,15 @@
-# change-lighting-type-class
+# Vectorworks Spotlight Plugin for change Lighting Device Type class
+
 Vectorworks plugin for change Lighting type class inside Lighting Device without editing symbol directly. Useful for coloring device by type (Spot, Wash, Beam etc.)
 
-## Instalation:
+## Installing:
 
 - put all files inside 'plug-ins' directory in your 'User Folder' (Vectorworks Preferences... -> User Folders -> Explore...)
 - reload Vectorworks
 - edit your current workspace. (Workspaces -> Edit Current Workspace...)
 - drag and drop 'Change Lighting Type Class' from 'SV' category to your favourite menu
 
-## Using:
+## How to:
 
 - select Lightind Device on drawing
 - run 'Change Lighting Type Class' menu command
