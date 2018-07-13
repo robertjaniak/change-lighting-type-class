@@ -1,4 +1,4 @@
-# Vectorworks Spotlight Plugin for change Lighting Device Type class
+# Vectorworks Spotlight Plugin for change fixture type class
 
 Vectorworks plugin for change Lighting type class inside Lighting Device without editing symbol directly. Useful for coloring device by type (Spot, Wash, Beam etc.)
 
